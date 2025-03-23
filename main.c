@@ -2,7 +2,7 @@
 	Mau ngapain ngab? Tinggal pake aja
 	apa susahnya euy!
 
-	Script by Sanz - Yt : FREE TUTORIAL
+	Script by ganzz - Yt : GUSDE GAMING
 #endif
 
 static  char data [] = 
@@ -9732,9 +9732,9 @@ static const char * shc_x[] = {
 "/*",
 " * DUA TIGA TUTUP BOTOL",
 " * KANG REKOD MUKA LU KEK KONTOL",
-" * AWOKAWOK REKOD MULU LU ANYING!",
-" * GAK MAMPU BUAT SCRIPT SENDIRI HAH?",
-" * MINIMAL BUAT SCRIPT SENDIRI LAH ANYING",
+" * AWOKAWOK REKOD MULU LU ANJENG!",
+" * GAK MAMPU BUAT SCRIPT SENDIRI KAH?",
+" * MINIMAL BUAT SCRIPT SENDIRI LAH GOBLOKK",
 " */",
 "",
 "#define _GNU_SOURCE /* needed to get RTLD_NEXT defined in dlfcn.h */",
