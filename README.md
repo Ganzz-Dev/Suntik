@@ -8,8 +8,8 @@ Script termux auto view video tiktok terbaru!
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sxp-ID/Zefbot
-$ cd Zefbot
+$ git clone https://github.com/Ganzz-Dev/Suntik
+$ cd Ganzz
 $ make install
 $ ./main
 
